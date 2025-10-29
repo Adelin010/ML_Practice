@@ -249,7 +249,7 @@ Exterior 2 (Nominal): Exterior covering on house (if more than one material)
 Mas Vnr Type (Nominal): Masonry veneer type
 
        BrkCmn	Brick Common
-       BrkFace	Brick Face
+       BrkFace Brick Face
        CBlock	Cinder Block
        None	None
        Stone	Stone
@@ -287,7 +287,7 @@ Bsmt Qual (Ordinal): Evaluates the height of the basement
        Gd	Good (90-99 inches)
        TA	Typical (80-89 inches)
        Fa	Fair (70-79 inches)
-       Po	Poor (<70 inches
+       Po	Poor (<70 inches)
        NA	No Basement
 		
 Bsmt Cond (Ordinal): Evaluates the general condition of the basement
@@ -344,7 +344,7 @@ Heating	(Nominal): Type of heating
        OthW	Hot water or steam heat other than gas
        Wall	Wall furnace
 		
-HeatingQC (Ordinal): Heating quality and condition
+Heating QC (Ordinal): Heating quality and condition
 
        Ex	Excellent
        Gd	Good
